@@ -1,0 +1,2 @@
+Exploring Git Commands and Behavior
+This repository contains my work for the Exploring Git Commands and Behavior lab in CEN‑4802. The purpose of this lab is to build hands‑on familiarity with Git by walking through real command‑line scenarios and observing how Git responds under different conditions. These exercises reinforce how Git tracks files, manages history, and handles cross‑platform differences such as line endings
